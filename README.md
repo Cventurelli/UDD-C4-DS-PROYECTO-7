@@ -22,6 +22,8 @@ La neumonía sigue siendo una de las principales causas de muerte a nivel global
 8.	Modelo VGG16
 9.	Técnicas de Ensamblaje
 10.	Comparación de los modelos - Evaluación - Conclusión y Recomendación
+11.	Aplicación
+12.	API
 
 ![image](https://github.com/Cventurelli/UDD-C4-DS-PROYECTO-7/assets/140468349/65582902-33cb-44f2-8539-6421867e9f96)
 ![image](https://github.com/Cventurelli/UDD-C4-DS-PROYECTO-7/assets/140468349/486d9f80-e932-400d-934b-9c31223eec0b)
