@@ -27,5 +27,7 @@ La neumonía sigue siendo una de las principales causas de muerte a nivel global
 ![image](https://github.com/Cventurelli/UDD-C4-DS-PROYECTO-7/assets/140468349/486d9f80-e932-400d-934b-9c31223eec0b)
 ![image](https://github.com/Cventurelli/UDD-C4-DS-PROYECTO-7/assets/140468349/63f2ac99-6e25-47c3-909e-f333ad790a2e)
 
+![image](https://github.com/Cventurelli/UDD-C4-DS-PROYECTO-7/assets/140468349/65b8539f-a056-4012-8b3a-89860520225f)
+![image](https://github.com/Cventurelli/UDD-C4-DS-PROYECTO-7/assets/140468349/2bc902a7-eeec-4ff6-9406-0a1f3a88fc00)
 
 
